@@ -6,7 +6,8 @@
     "genre": "Space RPG",
     "description": "Explore a procedurally generated galaxy.",
     "imageUrl": "",
-    "releaseDate": "2025-03-14"
+    "releaseDate": "2025-03-14",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_1"
   },
   {
     "name": "Neon Drift",
@@ -15,7 +16,8 @@
     "genre": "Racing",
     "description": "Free-to-play arcade street racer with neon vibes.",
     "imageUrl": "",
-    "releaseDate": "2024-11-02"
+    "releaseDate": "2024-11-02",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_2"
   },
   {
     "name": "Ashen Vale",
@@ -24,7 +26,8 @@
     "genre": "Dark Fantasy RPG",
     "description": "A brutal souls-like set in a cursed kingdom.",
     "imageUrl": "",
-    "releaseDate": "2026-09-30"
+    "releaseDate": "2026-09-30",
+    "downloadUrl": ""
   },
   {
     "name": "Circuit Breakers",
@@ -33,7 +36,8 @@
     "genre": "Puzzle Platformer",
     "description": "Rewire the world to solve mind-bending puzzles.",
     "imageUrl": "",
-    "releaseDate": "2025-07-19"
+    "releaseDate": "2025-07-19",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_4"
   },
   {
     "name": "Hollow Signal",
@@ -42,6 +46,7 @@
     "genre": "Sci-fi Horror",
     "description": "Something is answering your distress call.",
     "imageUrl": "",
-    "releaseDate": "2027-01-15"
+    "releaseDate": "2027-01-15",
+    "downloadUrl": ""
   }
 ]
