@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Starforge Odyssey",
+    "price": 29.99,
+    "released": true,
+    "genre": "Space RPG",
+    "description": "Explore a procedurally generated galaxy.",
+    "imageUrl": "",
+    "releaseDate": "2025-03-14"
+  },
+  {
+    "name": "Neon Drift",
+    "price": 0,
+    "released": true,
+    "genre": "Racing",
+    "description": "Free-to-play arcade street racer with neon vibes.",
+    "imageUrl": "",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "name": "Ashen Vale",
+    "price": 39.99,
+    "released": false,
+    "genre": "Dark Fantasy RPG",
+    "description": "A brutal souls-like set in a cursed kingdom.",
+    "imageUrl": "",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "name": "Circuit Breakers",
+    "price": 14.99,
+    "released": true,
+    "genre": "Puzzle Platformer",
+    "description": "Rewire the world to solve mind-bending puzzles.",
+    "imageUrl": "",
+    "releaseDate": "2025-07-19"
+  },
+  {
+    "name": "Hollow Signal",
+    "price": 24.99,
+    "released": false,
+    "genre": "Sci-fi Horror",
+    "description": "Something is answering your distress call.",
+    "imageUrl": "",
+    "releaseDate": "2027-01-15"
+  }
+]
